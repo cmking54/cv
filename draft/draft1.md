@@ -1,4 +1,8 @@
-**Christopher King** _Resume Draft #1_  
+# What -> The subtasks and responsibilities 
+# How -> tools and/or process
+# Why -> results and outcome
+
+**Christopher King** _Resume Draft #1_ 
 13 Oak Drive -- Hamilton, NY 13346  
 2239 Chatterton Ave -- Bronx, NY 10472  
 (718) 772-7273 | cmking@colgate.edu | GitHub: cmking54
@@ -19,6 +23,11 @@
     * Performed benchmarks and complied info on Raspberry Pi
     * Gained familiarity with: Advanced Java and Python, Linux, Terminal
 * **May 2016 - August 2016**
+    * Developed a lightweight hand detection algo to 
+    * Below is revised
+    * Utilized Python to develop a less intensive hand detection algorithm to simplify object detection (moving from mathetical models to more natural models)
+    * We chose to use GPU ratherthan the Cpu so we opted for a lib that /Optimized code by leveraging the GPU through use of open source libraries like OpenCV
+    * Above is revised
     * Developed a less intensive algorithm to detect hands in a frame 
     * Funded by Colgate to conduct research in area of choice, was advised by Professor Elodie Fourquet
     * Utilized open source libraries, mainly OpenCV
